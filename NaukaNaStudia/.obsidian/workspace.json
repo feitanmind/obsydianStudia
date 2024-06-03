@@ -1,0 +1,345 @@
+{
+  "main": {
+    "id": "50ea8d33dc0ea3bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8d98440581074ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b1706747da8840a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Uczenie maszynowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ff59f4576f63a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Uczenie maszynowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d6018fddc72f138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Uczenie maszynowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c80f9011c390fcc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Uczenie maszynowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "316df88784f8fb9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Typy zadań rozwiązywanych za pomocą ML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1953039e2d64a4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Klasyfikacja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "154e837d151c6a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Rodzaje klasyfikacji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "625d1ce3c84db5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Rodzaje klasyfikacji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a70310672320a52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Rodzaje klasyfikacji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cbc0d0f95891ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Klasyfikacja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fae5001bf3107a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Typy zadań rozwiązywanych za pomocą ML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4243909fc7b472d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Regresja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc9ab61ab13fa7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Przykład regresji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f916ccadee2933a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Regresja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "6adf62fb0fe36d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d0684f0d022db9f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77d3835ff86879dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "414b3ba47953d9b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42406fff20bd421b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3d2a6980710cb9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2eda837a4a8b926",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a6eacec1fa3a2fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "142935cae47fcc5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c71d732bd07722e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Learning/Regresja.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "887bcfc1c79eb489",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Learning/Regresja.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2498ffa71eed8b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d8e3679de20a6d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/Regresja.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "3f916ccadee2933a",
+  "lastOpenFiles": [
+    "Machine Learning/Różnica w regresji i klasyfikacji.md",
+    "Machine Learning/Przykład regresji.md",
+    "Pasted image 20240603091946.png",
+    "Machine Learning/Regresja.md",
+    "Pasted image 20240603091600.png",
+    "Machine Learning/Typy zadań rozwiązywanych za pomocą ML.md",
+    "Machine Learning/Uczenie maszynowe.md",
+    "Machine Learning/Klasyfikacja.md",
+    "Machine Learning/Działanie klasyfikacji.md",
+    "Pasted image 20240603091354.png",
+    "Machine Learning/Klasyfikacja wieloetykietowa.md",
+    "Machine Learning/Rodzaje klasyfikacji.md",
+    "Machine Learning/Klasyfikacja wieloklasowa.md",
+    "Machine Learning/Klasyfikacja binarna.md",
+    "Machine Learning/Pasted image 20240603090544.png",
+    "Machine Learning/Zadanie klasyfikacji intuicyjne.md",
+    "Machine Learning/Kiedy warto użyć uczenia maszynowego.md",
+    "Machine Learning/Zastosowanie systemów uczenia maszynowego.md",
+    "Machine Learning/Definicja formalna uczenia maszynowego.md",
+    "Machine Learning",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

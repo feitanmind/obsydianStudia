@@ -1,0 +1,1 @@
+**Klasyfikacja binarna** rozpatrujemy tylko dwie klasy: np. zdrowy/chory, przyznać kredyt/ nie przyznać kredytu

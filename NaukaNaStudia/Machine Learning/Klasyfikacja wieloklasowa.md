@@ -1,0 +1,1 @@
+**Klasyfikacja wieloklasowa** rozpatrujemy wiele klas np. rozpoznania: na zdjęciach RTG zapalenie płuc/ nowotwór płuc / gruźlica

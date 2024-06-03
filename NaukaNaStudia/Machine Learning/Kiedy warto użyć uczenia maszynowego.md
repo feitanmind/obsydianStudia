@@ -1,0 +1,3 @@
+- Kiedy danych / informacji jest dużo i nie mogą być analizowane przez człowieka
+- Jeżeli chcemy się uniezależnić od eksperta/wiedzy specjalistycznej (czyli chcemy zastąpić człowieka w czynnościach związanych z pracą umysłową, która jest zwykle droga, ale niekoniecznie twórcza).
+- Jeżeli wiedza nie jest znana lub nie można jej pozyskać.

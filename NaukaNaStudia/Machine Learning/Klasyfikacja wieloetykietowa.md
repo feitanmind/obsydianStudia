@@ -1,0 +1,1 @@
+**Klasyfikacja wieloetykietowa** - dana wejściowa może należeć do wielu klasy, np. zdjęcie może zawierać różne obiekty: drzewo, dom, statek, samochód. Jesteśmy zainteresowani znalezieniem wszystkich zdjęć, na których występuje co najmniej jeden z tych obiektów

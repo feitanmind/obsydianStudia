@@ -1,0 +1,1 @@
+Etykiety rzeczywisktoliczbowe albo kategoryczne
