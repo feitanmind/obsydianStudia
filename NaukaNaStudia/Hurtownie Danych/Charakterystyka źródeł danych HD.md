@@ -1,0 +1,12 @@
+- Różni producenci / technologie
+- Różna funkcjonalność
+	- Bazy danych
+	- Dialekty SQl
+	- Sposób dostępu i przetwarzania danych
+- Różne modele danych
+	- Hierarchiczne, sieciowe
+	- Relacyjne
+	- Obiektowe, obiektowo-relacyjne
+	- NoSQL
+	- Wielowymiarowe
+	- XML

@@ -1,0 +1,4 @@
+Najczęściej stosuje się <u><strong>schemat gwiazdy, schemat płatka śniegu lub schemat hybrydowy</strong></u> (najlepiej się nadają do zapytań w DSS)
+Informacje dzielą się na faktyczne (opisują fizyczne wystąpienia zdarzenia w świecie rzeczywistym np. transakcja w sklepie, operacja bankowa) i referencyjne (opisują wymiary wg których analizowane są dane faktyczne)
+**Informacje zbiorcze** - zagregowane kopie szczegółowych informacji przechowywanych w relacjach faktów
+**Metadane** - opisują zawartość HD (szczegółowe informacje o położeniu i charakterystyce źródeł danych, definicje agregatów, informacje pozwalające na kierowanie zapytań do najbardziej adekwatnych fragmentów HD itp.)

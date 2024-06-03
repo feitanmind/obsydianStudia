@@ -1,0 +1,3 @@
+- **Menedżerowie** (do zarządzania taktycznego)
+- **Analitycy** (bieżąca analiza sytuacji podmiotu prognozy)
+- **Stratedzy firmy** (tworzenie planów strategicznych krótko i długodystansowych)

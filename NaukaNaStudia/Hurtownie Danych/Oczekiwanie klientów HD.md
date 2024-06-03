@@ -1,0 +1,4 @@
+- Powinna być łatwa w użyciu
+- Ma stanowić główne źródło informacji menedżerskich
+- Winna synchronizować dane między oddziałami firmy
+- Jest przeznaczona do celów analitycznych

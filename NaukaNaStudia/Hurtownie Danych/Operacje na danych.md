@@ -1,0 +1,5 @@
+- **Drill-down (rozwijanie)** - nawigacja wzdłuż hierarchii danego wymiaru w celu rozbicia agregatu na agregaty składowe
+- **Roll-up (zwijanie)** - nawigacja dla danego wymiaru w górę hierarchii w celu prezentacji większych agregatów
+- ![[Pasted image 20240603202923.png ]]
+- ![[Pasted image 20240603203000.png]]
+-

@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projektowanie Hurtowni Danych.md",
+                "file": "★ Hurtownie danych.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0447cca3d2fd8134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe243d72b40d4a7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projektowanie Hurtowni Danych.md",
+                "file": "★ Hurtownie danych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projektowanie Hurtowni Danych.md",
+                "file": "★ Hurtownie danych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projektowanie Hurtowni Danych.md"
+                "file": "★ Hurtownie danych.md"
               }
             }
           },
@@ -166,13 +180,39 @@
   },
   "active": "a911c884d7765379",
   "lastOpenFiles": [
-    "Definicja Hurtowni Danych.md",
+    "Przetwarzanie analityczne.md",
+    "★ Hurtownie danych.md",
+    "Operacje na danych.md",
+    "Strategiczny.md",
+    "Uwarunkowania realizacyjne Hurtowni Danych.md",
+    "Modele danych.md",
+    "images/Pasted image 20240603203000.png",
+    "images/Pasted image 20240603202923.png",
+    "Kategorie analizowanych danych.md",
+    "Typy HD.md",
+    "Schematy pojęciowe.md",
+    "images/Pasted image 20240603201808.png",
+    "images/Pasted image 20240603201711.png",
+    "images/Pasted image 20240603201623.png",
+    "Wielowymiarowy model danych.md",
+    "images/Pasted image 20240603201122.png",
+    "Miary i wymiary w modelu OLAP.md",
+    "Schemat logiczny HD.md",
+    "Implementacja HD.md",
+    "Narzędzia do tworzenia i eksploracji HD.md",
+    "Charakterystyka źródeł danych HD.md",
+    "ETL w architekturze HD.md",
+    "images/Pasted image 20240603193746.png",
+    "Cele stosowania HD.md",
+    "Oczekiwanie klientów HD.md",
+    "Przykłady aplikacji analitycznych.md",
+    "Adresaci HD.md",
+    "OLTP vs OLAP.md",
     "Projektowanie Hurtowni Danych.md",
+    "Definicja Hurtowni Danych.md",
     "images",
     "images/Pasted image 20240603185755.png",
-    "**Hurtownie danych**.md",
     "Operacyjny.md",
-    "Różnica między terminami Operacyjny a Strategiczny.md",
-    "Strategiczny.md"
+    "Różnica między terminami Operacyjny a Strategiczny.md"
   ]
 }

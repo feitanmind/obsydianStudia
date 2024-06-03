@@ -1,0 +1,5 @@
+- **Fakty**
+	- Informacje podlegające analizie (sprzedaż, rozmowy telefoniczne, charakteryzowane ilościowo za pomocą **miar**, liczba sprzedanych sztuk towaru, czas trwania rozmowy)
+- **Wymiary**
+	- Ustalają kontekst analizy (sprzedaż czekolady (**produkt**) w Lidlu (**sklep**) w poszczególnych miesiącach roku (**czas**)
+	- Składają się z **poziomów**, które tworzą hierarchię

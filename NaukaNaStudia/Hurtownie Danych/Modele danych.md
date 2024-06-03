@@ -1,0 +1,6 @@
+[[Schemat logiczny HD]]
+[[Wielowymiarowy model danych]]
+[[Miary i wymiary w modelu OLAP]]
+[[Kategorie analizowanych danych]]
+[[Schematy pojęciowe]]
+[[Typy HD]]
