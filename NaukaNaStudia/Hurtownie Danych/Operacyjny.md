@@ -1,0 +1,8 @@
+- Działania operacyjne związane są z <u>codziennym prowadzeniem</u> interesów firmy.
+- Codzienne zamawianie towarów, realizacja zamówień klientów.
+- Systemy operacyjne (aplikacje komputerowe, RBD) są w stanie odpowiedzieć na pytania:
+	- Ile jest niezrealizowanych zamówień?
+	- Których towarów brakuje w magazynie?
+- Pytania tego typu powstają w czasie normalnego / codziennego działania organizacji.
+- Systemy operacyjne zawierają **migawkę stanu organizacji** w danym momencie.
+---
